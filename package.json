@@ -3,7 +3,6 @@
   "author": "Sinval Gomes dos Santos",
   "version": "0.1.0",
   "private": true,
-  "type":"module",
   "homepage":"http://localhost:3000",
   "dependencies": {
     "@prisma/client": "4.2.1",
